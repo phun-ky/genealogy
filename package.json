@@ -1,0 +1,22 @@
+{
+  "name": "genealogy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phun-ky/genealogy.git"
+  },
+  "keywords": [
+    "genealogy"
+  ],
+  "author": "Alexander Vassbotn Røyne-Helgesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phun-ky/genealogy/issues"
+  },
+  "homepage": "https://github.com/phun-ky/genealogy#readme"
+}
